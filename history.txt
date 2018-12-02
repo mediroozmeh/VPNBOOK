@@ -1,0 +1,1000 @@
+sudo systemctl start ssh
+ifconfig | grep "inet addr"
+ssh localhost
+ifconfig | grep "inet addr"
+ssh root@localhost
+ssh localhost
+ssh root@localhost
+ssh roozmeh@localhost
+deviceinfo
+hardwareinfo
+hardinfo
+Efax-gtk
+gfax-gtk
+efax-gtk
+hardinfo
+efax-gtk
+sudo pppconfig 
+install gnome-ppp
+sudo apt-get install gnome-ppp
+gnome-ppp 
+isusb
+lsusb
+hardinfo
+ifconfig | grep "inet addr"
+exit
+ssh localhost
+sudo service ssh start
+ps -A | grep sshd
+sudo passwd 
+ssh service ssh reload
+ssh service reload
+sudo service ssh reload
+sudo service ssh restart
+sudo service ssh reload
+ifconfig | grep "inet addr"
+sudo service ssh start
+ssh root@localhost
+sudo passwd 
+ssh root@localhost
+ssh 192.168.1.57
+nano /etc/ssh/sshd_config 
+sudo nano /etc/ssh/sshd_config 
+sudo service ssh restart
+sudo service ssh reload
+ssh root@localhost
+ifconfig | grep "inet addr"
+ps - A | grep sshd
+ps -A | grep sshd
+ifconfig | grep "inet addr"
+ps -A | grep sshd
+ifconfig | grep "inet addr"
+sudo service ssh restart
+ifconfig | grep "inet addr"
+ps -A | grep sshd
+sshd root@localhost
+ssh root@localhost
+nano /etc/ssh/sshd_config 
+sudo nano /etc/ssh/sshd_config 
+sudo service ssh restart
+sudo service ssh reload
+sudo service ssh restart
+sudo service ssh reload
+sudo service ssh start
+ifconfig | grep "inet addr"
+ps -A | grep sshd
+ifconfig | grep "inet addr"
+sudo service ssh restart
+ifconfig | grep "inet addr"
+ifconfig | grep "inet addr"
+sudo service ssh reload
+ps -A | grep sshd
+sudo service ssh start
+ps -A | grep sshd
+ifconfig | grep "inet addr"
+ssh 192.168.1.57
+sudo nano /etc/ssh/sshd_config 
+ifconfig | grep "inet addr"
+setup.sh
+ls
+./setup.sh 
+cd /home/
+ls
+cd ..
+ls
+cd etc/
+ls
+cd -
+ls
+cd bin
+ls
+cd ..
+ls
+cd /home/
+ls
+grep ".cshrc" *.*
+grep ".cshrc"*.*
+grep ".cshrc"
+grep - ".cshrc"
+ls
+cd roozmeh/
+ls
+cd Desktop/
+ls
+cd
+ls
+cd Desktop
+ls
+cd /home/
+ls
+cd roozmeh/
+ls
+vim .bashrc 
+vim .profile 
+vim .bashrc 
+bash
+vim .bashrc
+./setup.sh 
+bash
+bash
+quartus
+vim ./quartus
+ls
+bash
+pwd
+ls
+vim ./bash
+vim ./bashrc
+vim .bashrc
+bash
+ls
+cd intelFPGA_lite/
+ls
+cd 17.1/
+ls
+cd quartus/
+ls
+cd..
+ls
+pwd
+ls
+cd ..
+ls
+cd ..
+cd /home/roozmeh/
+ls
+vim .bashrc
+bash
+quartus
+vim .bashrc
+ls
+vim .bashrc
+edit
+pwd
+cd ..
+ls
+quartus
+vim .bashrc
+ls
+pwd
+gvim .bashrc
+vim .bashrc
+ls
+ls
+cd ..
+ls
+pwd
+vim .bashrc
+edit .bashrc
+bash
+./bashrc
+bashrc
+.bashrc
+ls
+quartus
+export PATH="/home/roozmeh/intelFPGA_lite/17.1/quartus/bin/quartus
+export PATH="/home/roozmeh/intelFPGA_lite/17.1/quartus/bin/quartus
+"
+ls
+export PATH="/home/roozmeh/intelFPGA_lite/17.1/quartus/bin/quartus"
+ls
+quartus
+export PATH="/home/roozmeh/intelFPGA_lite/17.1/quartus/bin/"
+quartus
+ls
+cd /home/roozmeh/intelFPGA_lite/17.1/
+ls
+cd quartus/
+ls
+cd linux64/
+ls
+quartus
+ls
+cd ..
+ls
+cd edition
+cd ..
+ls
+cd ..
+ls
+cd 17.1/
+ls
+cd ip/
+ls
+cd ..
+ls
+cat /etc/*-release
+uname -mrs
+uname -a
+ls
+vim
+export path="/usr/bin/"
+vim
+export PATH="/usr/bin:$PATH"
+vim .bashrc
+bash
+vim .bashrc
+ls
+bash
+ls
+quartus
+pwd
+vim tools
+source tools 
+vim tools
+ls
+source tools 
+quartus
+.tools
+vim tools 
+ls
+vim tools 
+ls
+./tool.sh
+chmod +x tool.sh 
+quartus
+chmod +x tool.sh 
+quartus
+vim tools 
+source tools.sh
+source tool.sh
+quartus
+ls
+vim ~/ .bashrc
+vim .bashrc
+vim ~/ .bashrc
+vim ~/.bashrc
+bash
+.bashrc
+source .bashrc
+ls
+source tool.sh 
+source tool
+source .tool
+sudo ln -s /path/to/binary binary-name
+source .bashrc
+quartus
+cd 
+ls
+~/ .bashrc
+. ~/ .bashrc
+cd
+vim .bashrc
+. ~ .bashrc
+cd 
+. ~/ .bashrc
+.bashrc
+vim .profile 
+source  .profile 
+quartus
+.profile 
+ls
+vim .profile 
+source .bashrc
+quartus
+ls
+cd intelFPGA_lite/
+ls
+cd 17.1
+ls
+cd licenses/
+ls
+cd quartus/
+ls
+cd ..
+ls
+cd images/
+ls
+cd ..
+ls
+cd i
+cd ip/
+ls
+cd ..
+ls
+cd ..
+ls
+cd quartus/
+ls
+cd ..
+ls
+cd ip/
+ls
+cd ..
+ls
+cd /home/
+ls
+cd roozmeh/
+ls
+make 
+./print-devices 
+./cl-demo 
+./cl-demo 1000 10
+make -l opencl
+make -l OpenCL
+make \
+make 
+ls
+./print-devices 
+ls
+make -l OpenCL
+./print-devices 
+vim cl-helper.c 
+ls
+vim print-devices.c 
+vim cl-demo.c 
+./print-devices 
+vim cl-helper.c 
+vim cl-demo.c 
+./print-devices 
+vim cl-helper.c 
+ls
+./show-clock-freq 
+./set-governor 
+ls
+cd ..
+ls
+cd ..
+ls
+cd scorep_pass/
+ls
+rm main main1 main2
+ls
+rm scorep-20181022_1611_27262729092415/ scorep-20181022_1614_27651581031676/ scorep-failed-20181017_2147_53083185022722/
+rm -rf scorep-20181022_1611_27262729092415/ scorep-20181022_1614_27651581031676/ scorep-failed-20181017_2147_53083185022722/
+ls
+rm -rf scorep-failed-20181017_2148_53287798786546/ scorep-failed-20181017_2149_53418899779976/ scorep-failed-20181022_1611_27262103830926/
+ls
+gcc main.c -o vector_add_kernel.cl -l OpenCL
+ls
+gcc main.c -o main -l OpenCL
+ls
+./main 
+ls
+vim main.c 
+./main 
+gcc main.c -o main -l OpenCL
+./main 
+ls
+./main 
+which opencl
+ls
+ispci | grep VGA
+lspci | grep VGA
+./main 
+sudp apt install ocl-icd-libopencl1
+sudo apt install ocl-icd-libopencl1
+sudo apt install opencl-headers 
+sudo apt install clinfo
+sudo apt install ocl-icd-opencl-dev 
+gcc main.c -o main1 -l OpenCL
+./main1 
+g++ main.c -o main1 -l OpenCL
+./main1 
+clinfo
+nvidia derivers
+sudo apt-get install openvpn 
+cd /home/roozmeh/Downloads/
+ls
+unzip VPNBook.com-OpenVPN-US1.zip 
+sudo openvpn vpnbook-us1-tcp443.ovpn 
+ispci | grep VGA
+lspci | grep VGA
+cd /home/roozmeh/work/scorep_pass/
+ls
+gcc main.c -o main3 -l OpenCL
+./main3 
+lspci | grep VGA
+sudp apt install nvidia-387
+sudo apt install nvidia-387
+ls
+;ls
+ls
+run NVIDIA-Linux-x86_64-340.107_1.run 
+sudo run NVIDIA-Linux-x86_64-340.107_1.run 
+ls
+sudo add-apt-repository ppa:graphics-drivers/ppa
+sudo apt update
+sudo apt install nvidia-387
+ls
+sudo apt install nvidia-387
+sudo apt install nvidia-340
+ls
+sudo openvpn vpnbook-fr1-tcp80.ovpn 
+ls
+openvpn vpnbook-pl226-tcp443.ovpn
+ls
+openvpn vpnbook-pl226-tcp443.ovpn
+ls
+cd ..
+ls
+openvpn vpnbook-us1-tcp443.ovpn
+ls
+cd VPNBook.com-OpenVPN-PL226/
+ls
+lspci | grep VGA
+sudo apt install nvidia-380
+sudo apt install nvidia-387
+sudo apt install nvidia-340
+cd /home/roozmeh/work/
+ls
+cd scorep_pass/
+ls
+./main
+lspci | grep VGA
+./main
+lsa
+;s
+ls
+gcc main.c -o main3 -l OpenCL
+./main3
+ls
+gcc main.c -o main4 -l OpenCL
+./main4
+cd /home/roozmeh/Downloads/
+ls
+cd VPNBook.com-OpenVPN-FR1/
+ls
+sudo openvpn vpnbook-fr1-tcp80.ovpn 
+ls
+cd /home/roozmeh/Downloads/
+ls
+]cd VPNBook.com-OpenVPN-FR1
+]sudo openvpn VPNBook.com-OpenVPN-FR1
+sudo openvpn VPNBook.com-OpenVPN-FR1
+cd VPNBook.com-OpenVPN-FR1
+ls
+sudo openvpn vpnbook-fr1-tcp80.ovpn 
+cd /home/roozmeh/work/scorep_pass/
+./main4 
+ls
+gcc main.c -o main5 -l OpenCL
+./main5
+cd /home/roozmeh/work/scorep_pass/ls
+sudo apt install nvidia-340
+mv .Xauthority .Xauthority.bak
+mv .Xauthority .Xauthority.back
+mv .Xauthority .Xauthority.bak
+exit
+mv .Xauthority .Xauthority.bak 
+exit
+sudo adduser loginloop
+sudo usermod  -a -G sudo loginloop
+chown loginloop:roozmeh "roozmeh
+chown loginloop:roozmeh "roozmeh
+chown loginloop:roozmeh "roozmeh
+ls
+cd /home/roozmeh/Downloads/
+ls
+cd VPNBook.com-OpenVPN-FR1
+ls
+openvpn vpnbook-fr1-tcp80.ovpn
+sudo openvpn vpnbook-fr1-tcp80.ovpn
+ls
+which nvidia
+nvidia-smi -q
+sudo apt install nvidia-340
+nvidia-smi -q
+which n
+which nvidia
+which nvidia-smi 
+nvidia-smi -q
+nvidia-smi -q -d
+nvidia-smi -q
+ls
+nvidia-smi -q
+sudo ubntu-drivers devices
+sudo ubuntu-drivers devices
+sudo apt install nvidia-304
+ls
+sudo apt install nvidia-340
+ls
+whcih nvidia
+whcih nvidia-q
+nvidia-smi -q
+cd /home/roozmeh/work/scorep_pass/
+gcc main.c -o main10 -l OpenCL
+ls
+./main10
+cd -
+ls
+sudo apt install nvidia-304
+sudo ubuntu-drivers autoinstall
+sudo apt-get install --fix-broken xorg-video-abi-11 xserver-xorg-core
+whcih nvidia-q
+nvidia-smi -q
+apt policy nvidia-304 -s
+apt policy nvidia-304 
+sudo add-apt-repository ppa:graphics-drivers
+sudo apt-get update
+sudo apt-get upgrade
+ls
+nvidia-smi -q
+sudo apt-get remove --purge nvidia-*
+nvidia-smi -q
+dpkg -l | grep -i nvidia
+sudo apt-get install ubuntu-desktop
+sudo apt-get purge nvidia-curernt
+sudo apt-get purge nvidia-current
+dpkg -l | grep nvidia
+sudo apt autoremove
+sudo apt autoclean
+dpkg -l | grep nvidia
+sudo apt-get purge nvidia-390
+dpkg -l | grep nvidia
+sudo apt-get purge nvidia-390.386
+sudo apt purge nvidia-390 -y
+dpkg -l | grep nvidia
+sudo apt autoremove -y
+sudo apt autoclean
+dpkg -l | grep nvidia
+sudo nvidia-uinstall
+sudo nvidia-uninstall
+sudo nvidia-detector 
+nvidia-smi -q 
+sudo apt install nvidia-340
+nvidia-smi -q
+nvidia0smi -q
+nvidia-smi -q
+sudo apt purge nvidia
+nvidia-smi -q
+sudo nvidia-uninstall
+sudo apt install nvidia-340
+sudo nvidia-detector 
+nvidia-smi -q
+sudo apt install nvidia
+ls
+sudo apt autoremove -y
+sudo apt purge nvidia-*
+sudo service lightdm restart
+ls
+pwd
+sudo a[t-get install nvidia-304 nvidia-prime
+sudo apt-get install nvidia-304 nvidia-prime
+sudo dpkg -i /media/usb/nvidia-304_304.131-0ubuntu0.14.04.2_i386.deb
+dufo ubntu0driver list
+sudo ubntu0driver list
+sudo ubntu-driver list
+sudo ubntu-drivers list
+sudo ubuntu-drivers list
+install ubuntu-drivers autoinstall 
+sudo ubuntu-drivers autoinstall 
+modinfo nv
+sudo nvidia-detector 
+sudo apt-get update 
+sudo apt-get dist-upgrade 
+sudo apt-get install intel-microcode 
+ubuntu-drivers devices
+sudo apt-get install intel-microcode 
+ubuntu-drivers devices
+sudo apt-get install nvidia-340
+sudo nvidia-detector 
+sudo apt-get install nvidia-304
+nvidia-smi -q
+dpkg -l | grep nvidia
+inxi -G
+sudo apt-get install-f 
+sudo apt-get install-f nvidia-304
+sudo apt-get install -f nvidia-304
+sudo apt-get install xorg-video-abi-11
+sudo apt-get install xorg-video-abi-11  xserver-xorg-core
+sudo apt-get install --fix-broken xorg-video-abi-11 xserver-xorg-core
+sudo apt-get --purge nvidia-*
+sudo apt-get remove --purge nvidia-*
+cd /home/roozmeh/Downloads/
+ls
+chmod +x NVIDIA-Linux-x86_64-340.107_1.run 
+ls
+./NVIDIA-Linux-x86_64-340.107_1.run 
+sudo ./NVIDIA-Linux-x86_64-340.107_1.run 
+ls
+dpkg -l | grep nvidia
+sudo ./NVIDIA-Linux-x86_64-340.107_1.run 
+ls
+dpkg -l | grep nvidia
+sudo apt-get --purge nvidia-*
+sudo apt-get purge nvidia-*
+sudo apt-get -purge nvidia-*
+sudo apt-get remove --purge nvidia-*
+dpkg -l | grep nvidia
+sudo apt purge nvidia-*
+ls
+sudo apt purge nvidia-*
+sudo dpkg --configure -a
+sudo apt purge nvidia-*
+dpkg -l | grep nvidia
+vim  /home/roozmh/work/pre-work
+cd  /home/roozmh/work/
+cd  /home/roozmeh/work/
+ls
+vim initialization
+vim initialization 
+chmod +x initialization 
+./initialization 
+vim initialization 
+chmod +x initialization 
+./initialization 
+vim initialization 
+chmod +x initialization 
+./initialization 
+vim initialization 
+./initialization 
+chmod +x initialization 
+./initialization 
+vim initialization 
+chmod +x initialization 
+./initialization 
+vim initialization 
+chmod +x initialization 
+./initialization 
+chmod +x initialization 
+./initialization 
+vim initialization 
+chmod +x initialization 
+./initialization 
+vim initialization 
+./initialization 
+vim initialization 
+chmod +x initialization 
+./initialization 
+vim initialization 
+./initialization 
+chmod +x initialization 
+./initialization 
+vim initialization 
+./initialization 
+chmod +x initialization 
+./initialization 
+vim initialization 
+chmod +x initialization 
+./initialization 
+vim initialization 
+./initialization 
+chmod +x initialization 
+./initialization 
+vim initialization 
+chmod +x initialization 
+./initialization 
+vim initialization 
+chmod +x initialization 
+./initialization 
+vim initialization 
+chmod +x initialization 
+./initialization 
+chmod +x initialization1 
+ls
+vim initialization 
+ls
+chmod +x initialization1 
+./initialization 
+vim initialization 
+vim initialization1 
+chmod +x initialization1 
+./initialization1 
+vim initialization1 
+chmod +x initialization1 
+./initialization1 
+whereis expect
+./initialization1 
+cd /home/roozmeh/work/
+ls
+./initialization1 
+./initialization
+chmod +x initialization
+./initialization
+cd /home/roozmeh/work/
+chmod +x initialization
+./initialization
+chmod +x initialization
+./initialization
+chmod +x initialization
+./initialization
+chmod +x initialization
+./initialization
+cd /home/roozmeh/work/
+ls
+./initialization1 
+vim initialization
+vim initialization1
+rm rf initialization1 
+rm  initialization1 
+rm  initialization 
+ls
+vim initialization
+chmod +x initialization 
+./initialization
+./initialization 
+ls
+./initialization 
+chmod +x initialization 
+./initialization 
+vim initialization
+chmod +x initialization 
+./initialization 
+ls
+./initialization 
+vim initialization
+./initialization 
+chmod +x initialization 
+./initialization 
+vim initialization
+./initialization 
+vim initialization
+./initialization 
+vim initialization
+chmod +x initialization 
+./initialization 
+vim initialization
+./initialization 
+chmod +x initialization 
+./initialization 
+vim initialization
+chmod +x initialization 
+./initialization 
+vim initialization
+chmod +x initialization 
+./initialization 
+chmod +x initialization 
+./initialization 
+vim initialization
+chmod +x initialization 
+./initialization 
+vim initialization
+./initialization 
+vim initialization
+chmod +x initialization 
+./initialization 
+vim initialization
+chmod +x initialization 
+./initialization 
+vim initialization
+chmod +x initialization 
+./initialization 
+vim initialization
+chmod +x initialization 
+./initialization 
+vim initialization
+ls
+apt-get install expect
+sudo apt-get install expect
+ls
+whereis expect
+lsb_release -a
+ls
+lls
+ls
+./initialization 
+\
+ls
+vim initialization 
+chmod +x initialization 
+./initialization 
+vim initialization 
+chmod +x initialization 
+./initialization 
+chmod +x initialization 
+./initialization 
+vim initialization 
+chmod +x initialization 
+./initialization 
+vim initialization 
+ls
+vim initialization 
+chmod +x initialization 
+./initialization 
+vim initialization 
+chmod +x initialization 
+./initialization 
+vim initialization 
+chmod +x initialization 
+./initialization 
+vim initialization 
+vim vpnbook
+ls
+chmod +x vpnbook
+./vpnbook 
+vim initialization 
+chmod +x initialization 
+./initialization 
+vim vpnbook
+ls
+rm -rf vpnbook
+ls
+vim initialization 
+ls
+rm -rf initialization
+ls
+chmod +x vpnbook.sh 
+chmod +x initialization.sh 
+vim initialization.sh 
+ls
+vim initialization.sh 
+chmod +x initialization.sh 
+./initialization.sh 
+vim initialization.sh 
+chmod +x initialization.sh 
+./initialization.sh 
+vim initialization.sh 
+chmod +x initialization.sh 
+./initialization.sh 
+vim initialization.sh 
+chmod +x initialization.sh 
+vim initialization.sh 
+chmod +x initialization.sh 
+./initialization.sh 
+vim initialization.sh 
+ls
+./vpnbook.sh 
+./initialization.sh 
+vim initialization.sh 
+ls
+./initialization.sh 
+chmod +x initialization.sh 
+./initialization.sh 
+vim initialization.sh 
+chmod +x initialization.sh 
+./initialization.sh 
+vim initialization.sh 
+expect initialization.sh 
+vim initialization.sh 
+expect initialization.sh 
+vim initialization.sh 
+expect initialization
+expect initialization.sh 
+vim initialization.sh 
+vim vpnbook.sh 
+expect initialization.sh 
+vim initialization.sh 
+expect initialization.sh 
+/initialization.sh 
+./initialization.sh 
+vim vpnbook.sh 
+./initialization.sh 
+ls
+vim initialization.sh 
+whereis expect
+chmod +x vpnbook.sh 
+chmod +x initialization.sh 
+./initialization.sh 
+vim initialization.sh 
+chmod +x initialization.sh 
+./initialization.sh 
+vim vpnbook.sh 
+vim initialization.sh 
+chmod +x initialization.sh 
+./initialization.sh 
+chmod +x initialization
+cd /home/roozmeh/work/
+chmod +x initialization
+./initialization
+vim initialization 
+cd /home/roozmeh/Downloads/
+ls
+cd VPNBook.com-OpenVPN-FR1/
+pwd
+ls
+whereis expect
+cd ..
+ls
+cd /home/roozmeh/work/
+ls
+./initialization
+expect -c 'spawn whoami'
+ls
+sudo
+sud apt 
+sud apt-insall
+cd /home/roozmeh/work/
+ls
+./initialization 
+cd /home/roozmeh/Downloads
+pwd
+ls
+pwd
+ls
+cd VPNBook.com-OpenVPN-FR1
+pwd
+ls
+pwd
+ls
+pwd
+sudo openvpn vpnbook-fr1-tcp80.ovpn 
+pwd
+ls
+vim VPN
+/home/roozmeh/work/initialization.sh 
+./home/roozmeh/work/initialization.sh 
+cd /home/roozmeh/work/
+./initialization.sh 
+vim initialization.sh 
+chmod +x initialization
+chmod +x initialization.sh 
+./initialization.sh 
+vim initialization.sh 
+chmod +x initialization.sh 
+./initialization.sh 
+vim initialization.sh 
+chmod +x initialization.sh 
+./initialization.sh 
+vim initialization.sh 
+chmod +x initialization.sh 
+./initialization.sh 
+vim initialization.sh 
+chmod +x initialization.sh 
+./initialization.sh 
+vim initialization.sh 
+chmod +x initialization.sh 
+./initialization.sh 
+vim initialization.sh 
+chmod +x initialization.sh 
+./initialization.sh 
+chmod +x initialization.sh 
+./initialization.sh 
+vim initialization.sh 
+./initialization.sh 
+sudo killall openvpn 
+./initialization.sh 
+sudo killall openvpn 
+which nvidia-detector 
+nvidia-detector 
+whereis .bashrc
+pwd
+ls
+whereis .bashrc
+./initialization.sh 
+nvidia-smi -q
+sudo apt install nvidia-340
+sudo ubuntu-drivers list
+sudo service lightdm restart
+sudo ubuntu-drivers list
+nvidia-smi -q
+firefox
+apt purge nvidia-*
+nvidia-smi -q
+cd /home/roozmeh/work/
+ls
+cd scorep_pass/
+ls
+./main10
+nautilus
+ls
+gcc main.c  -o main -l OpenCL
+./main
+nautilus
+ls
+cd /home/roozmeh/work/
+./initialization.sh 
+cd /home/roozmeh/work/
+./initialization.sh 
+cd /home/roozmeh/work/
+./initialization.sh 
+nvidia-smi -q
+nvidia-smi 
+sudo apt-get install openssh-server 
+ip addr | grep inet
+kill-all openvpn
+sudo killall openvpn 
+ls
+ip addr | grep inet
+ssh mehdi@mehdi-Lenovo-Yoga-2-Pro
+ssh mehdi@192.168.1.59
+./initialization.sh 
+ip addr | grep inet
+sudo killall openvpn 
+./initialization.sh 
+sudo killall openvpn 
+ip route get 8.8.8.8 | awk '{print $NF; exit}'
+hostname -I
+ls
+hostname -I
+history
+history | grep hos
+history | grep host
+history | grep kil
+history .>t.txt
+history
+history t.txt
+history | t.txt
+history .> t.txt
+history --help
+history -w history.txt
